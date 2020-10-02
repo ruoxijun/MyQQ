@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyQQ</string>
+    <string-array name="city">
+        <item>重庆</item>
+        <item>四川</item>
+        <item>北京</item>
+        <item>上海</item>
+        <item>台湾</item>
+    </string-array>
+</resources>
